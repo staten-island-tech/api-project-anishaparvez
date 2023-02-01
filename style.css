@@ -1,0 +1,47 @@
+api.quotable.io/random async function getData #searchButton,
+#clearButton {
+  color: rgb(0, 0, 0);
+  background-color: rgba(170, 220, 201, 0.767);
+  margin-left: 2rem;
+  width: 4rem;
+}
+
+.zayn {
+  background-color: rgba(221, 176, 197, 0.37);
+  text-align: center;
+}
+h2 {
+  font-size: 1.5rem;
+  margin-bottom: 0;
+}
+p {
+  font-size: 1.2rem;
+  margin: 0.5rem;
+}
+
+img {
+  margin: 2rem;
+}
+input {
+  background-color: rgba(252, 249, 223, 0.767);
+  border-radius: 0;
+  text-align: center;
+  width: 10rem;
+}
+.artist-card {
+  background-color: rgba(252, 249, 223, 0.767);
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  border-style: solid;
+  border-radius: 2%;
+  border-width: 0.3rem;
+}
+h3 {
+  text-align: center;
+  font-size: 1.05rem;
+  margin-left: 4rem;
+  margin-right: 4rem;
+  margin-bottom: 2rem;
+}
